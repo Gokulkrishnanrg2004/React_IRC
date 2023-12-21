@@ -1,4 +1,4 @@
-![Screenshot 2023-12-21 070303](https://github.com/Gokulkrishnanrg2004/React_IRC/assets/125328166/e8c9d8b2-3ce2-40b3-988a-99b60558f390)Pet Adoption Web Page - React Application
+Pet Adoption Web Page - React Application
 Overview
 This is a React-based web application for pet adoption. The application consists of various component pages, each serving a specific purpose in the pet adoption process. Users can navigate through the pages to explore available pets, learn more about the organization, and contribute by donating or shopping for pet accessories.
 
