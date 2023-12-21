@@ -19,35 +19,36 @@ Table of Contents
 Usage
 Visit http://localhost:3000 in your browser to interact with the pet adoption web application.
 
-Components
-Login
+Components :
+
+Login : 
 The Login page allows users to log in to their accounts.
 ![Uploading Screenshot 2023-12-21 070251.png…]()
 
 
-Signup
+Signup : 
 The Signup page enables new users to create accounts.
 
-Home
+Home :
 The Home page showcases featured pets available for adoption.
 
 
-Adopt a Pet
+Adopt a Pet :
 The Adopt a Pet page displays a list of pets that users can adopt First it will as to select a region and then it will ask to select a pet.
 
 
-About Us
+About Us :
 The About Us page provides information about the organization, its mission, and team members.
 
-Donate a Pet
+Donate a Pet :
 The Donate a Pet page allows users to contribute by donating to the organization.
 
-Shop Accessories
+Shop Accessories :
 The Shop Accessories page provides a platform for users to browse and purchase pet accessories.
 
-Dependencies
-React
-React Router
-Other dependencies as specified in the package.json file.
-Contributing
-Feel free to contribute by opening issues or submitting pull requests. Follow the contributing guidelines for more details.
+Dependencies :
+- React
+- React Router
+- Other dependencies as specified in the package.json file.
+- Contributing
+- Feel free to contribute by opening issues or submitting pull requests. Follow the contributing guidelines for more details.
