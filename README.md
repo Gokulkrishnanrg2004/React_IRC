@@ -1,11 +1,9 @@
-Pet Adoption Web Page - React Application
+![Screenshot 2023-12-21 070303](https://github.com/Gokulkrishnanrg2004/React_IRC/assets/125328166/e8c9d8b2-3ce2-40b3-988a-99b60558f390)Pet Adoption Web Page - React Application
 Overview
 This is a React-based web application for pet adoption. The application consists of various component pages, each serving a specific purpose in the pet adoption process. Users can navigate through the pages to explore available pets, learn more about the organization, and contribute by donating or shopping for pet accessories.
 
 Table of Contents
-* Installation
 * Usage
-* Folder Structure
 * Components
   Login
   Signup
@@ -24,6 +22,8 @@ Visit http://localhost:3000 in your browser to interact with the pet adoption we
 Components
 Login
 The Login page allows users to log in to their accounts.
+![Uploading Screenshot 2023-12-21 070251.png…]()
+
 
 Signup
 The Signup page enables new users to create accounts.
@@ -31,8 +31,10 @@ The Signup page enables new users to create accounts.
 Home
 The Home page showcases featured pets available for adoption.
 
+
 Adopt a Pet
-The Adopt a Pet page displays a list of pets that users can adopt. It provides filters and search functionality.
+The Adopt a Pet page displays a list of pets that users can adopt First it will as to select a region and then it will ask to select a pet.
+
 
 About Us
 The About Us page provides information about the organization, its mission, and team members.
