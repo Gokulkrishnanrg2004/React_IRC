@@ -1,0 +1,37 @@
+head{
+    font-family: century gothic;
+    font-size: 30px;
+    color: white;
+}
+.cardfinal img{
+    height: 115px;
+    width: 155px;
+}
+.cardfinal{
+    width: 20vw;
+    height : 38vh;
+    background: white;
+    box-shadow: 0 8px 32px 0 black;
+}
+.finalbody{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: century gothic;
+}
+.cardfinal:hover{
+    box-shadow: 0 8px 32px 0 black;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -450px;
+}
+.card-body p{
+    margin-top: 7%;
+}
+.card-body h3{
+    margin-top: 7%;
+}

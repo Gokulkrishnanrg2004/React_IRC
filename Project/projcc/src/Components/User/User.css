@@ -1,0 +1,54 @@
+.userbody {
+ width : 420px;
+ height : 520px;
+ backdrop-filter: blur(10px);   
+ transition-duration: 0.4s;
+ margin-right: 600px;
+ box-shadow:
+  1.2px 1.1px 2.2px rgba(0, 0, 0, 0.022),
+  2.8px 2.7px 5.3px rgba(0, 0, 0, 0.032),
+  5.3px 5px 10px rgba(0, 0, 0, 0.04),
+  9.4px 8.9px 17.9px rgba(0, 0, 0, 0.048),
+  17.5px 16.7px 33.4px rgba(0, 0, 0, 0.058),
+  42px 40px 80px rgba(0, 0, 0, 0.08)
+;
+}
+.userbody h1{
+    padding-top: 20px;
+}
+.userbody:hover{
+    box-shadow:
+  1.2px 1.1px 2.2px rgba(0, 0, 0, 0.084),
+  2.8px 2.7px 5.3px rgba(0, 0, 0, 0.121),
+  5.3px 5px 10px rgba(0, 0, 0, 0.15),
+  9.4px 8.9px 17.9px rgba(0, 0, 0, 0.179),
+  17.5px 16.7px 33.4px rgba(0, 0, 0, 0.216),
+  42px 40px 80px rgba(0, 0, 0, 0.3)
+;
+}
+.para{
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+.userbody button{
+    width: 330px;
+    height: 45px;
+    background: rgb(12, 0, 115);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255,255,255,.1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 700;
+    margin-top: 30px;
+    transition-duration: 0.4s;
+}
+.userbody button:hover{
+    width: 330px;
+    height: 45px;
+    color: #fff;
+    background: rgb(128, 0, 0);
+}

@@ -1,0 +1,83 @@
+.lb{
+    margin: 0;
+    padding: 0;
+}
+.section1 {
+    background: rgb(3, 3, 3);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    display: grid;
+    justify-content: center;
+}
+.section1 .heading{
+    text-align: center;
+    width: 60rem;
+    color: #b9c7ff;
+  }
+.section1 h1{
+    margin-left: 120px;
+        text-align: center;
+        width: 80vw;
+        font-size: 90px;
+}
+.section1 .landingpara2{
+        text-align: center;
+        width: 80vw;
+        font-size: 30px;
+        color: #ffffff;
+}
+.landingpara2 .p0{
+    font-size: 25px;
+}
+.section2 {
+    background: url(./finallp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    display: grid;
+    justify-content: center;
+}
+  .section1 .landingpara2{
+    text-align: center;
+    width: 80vw;
+    font-size: 20px;
+}
+.section1 h1{
+        text-align: center;
+        width: 60rem;
+}
+.lp{
+    width: 60vw;
+    padding: 80px 50px;
+}
+.lbs .p1{
+    font-size: 20px;
+}
+.lbs .p2{
+    font-size: 40px;
+    color: #ffffff;
+}
+.lb button{
+    width: 200px;
+    height: 45px;
+    background: rgb(163, 153, 255);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255,255,255,.1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #000766;
+    font-weight: 700;
+    transition-duration: 0.4s;
+}
+.but .but1{
+    margin-right: 30px;
+}
